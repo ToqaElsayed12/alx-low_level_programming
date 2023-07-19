@@ -10,7 +10,7 @@ void print_times_table(int n)
 {
 	int Prod, mult, num;
 
-	if (n <= 15 && n >=0)
+	if (n <= 15 && n >= 0)
 	{
 		for (num = 0; num <= n; ++num)
 		{
@@ -30,7 +30,7 @@ void print_times_table(int n)
 				{
 					_putchar((Prod / 100) + 48);
 					_putchar((Prod / 10) % 10 + 48);
-				}else if (Prod <= 99 && Prod >= 10)
+				} else if (Prod <= 99 && Prod >= 10)
 					_putchar((Prod / 10) + 48);
 				_putchar((Prod % 10) + 48);
 			}
