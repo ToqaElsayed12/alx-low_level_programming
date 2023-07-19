@@ -6,10 +6,10 @@
  *
  * @n: Always 0 (success)
 */
-
-int _abs(int n)
-
+int main(void)
 {
+    int r;
+
 	if (n < 0)
 	{
 		n = (-1) * n;
