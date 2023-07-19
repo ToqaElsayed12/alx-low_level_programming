@@ -11,6 +11,7 @@
 int main(void)
 
 {
+
 	char  Str[] =  "_putchar";
 	int ch;
 
@@ -19,4 +20,5 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
+
 }
