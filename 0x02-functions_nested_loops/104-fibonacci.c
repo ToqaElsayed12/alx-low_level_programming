@@ -41,12 +41,12 @@ int main(void)
 	{
 		if (f10 > 0)
 			printf("%lu", f10);
-		initial0s = numlength(mx) - 1 - numlength(f1);
+		intitial0s = numlength(mx) - 1 - numlength(f1);
 
 		while (f10 > 0 && intitial0s > 0)
 		{
 			printf("%d", 0);
-			initial0s--;
+			intitial0s--;
 		}
 
 		printf("%lu", f1);
