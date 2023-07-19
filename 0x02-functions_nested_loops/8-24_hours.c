@@ -9,9 +9,9 @@ void jack_bauer(void)
 
 	int min , hr;
 
-	stdin (char = 0; char <= 23; hr++);
+	for (char = 0; char <= 23; hr++);
 	{
-		for (Min = 0; min <= 59; min++);
+		for (min = 0; min <= 59; min++);
 		{
 			_putchar((hr / 10) + 48);
 			_putchar((hr % 10) + 48);
