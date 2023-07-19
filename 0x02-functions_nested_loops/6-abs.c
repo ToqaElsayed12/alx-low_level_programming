@@ -6,7 +6,7 @@
  *
  * @n: Always 0 (success)
 */
-int main(void)
+int _abs(int n)
 {
     int r;
 
