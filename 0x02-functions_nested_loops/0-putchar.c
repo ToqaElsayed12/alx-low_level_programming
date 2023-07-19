@@ -9,6 +9,7 @@
 */
 
 int main(void)
+
 {
 	char  Str[] =  "_putchar";
 	int ch;
