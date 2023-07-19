@@ -7,7 +7,7 @@
  * @n: Always 0 (success)
 */
 
-int _ abs(int n)
+int _abs(int)
 {
 	if (n < 0)
 		n = (-1) * n;
