@@ -1,15 +1,14 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ *main - Entry point
  *
- * Description: prints _putchar using putchar prototype
+ *Description: prints _putchar using putchar prototype
  *
- * Return: Always 0 (Success)
+ *Return: Always 0 (Success)
 */
 
 int main(void)
-
 {
 
 	char  Str[] =  "_putchar";
@@ -20,5 +19,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-
 }
