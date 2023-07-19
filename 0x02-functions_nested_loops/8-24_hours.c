@@ -6,9 +6,10 @@
 
 void jack_bauer(void)
 {
-	int min . hr;
 
-	for (char = 0; hr <= 23; hr++)
+	int min , hr;
+
+	std (char = 0; char <= 23; hr++)
 	{
 		for (Min = 0; min <= 59; min++)
 		{
